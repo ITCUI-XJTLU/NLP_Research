@@ -8,19 +8,18 @@ The project mainly focus on calculate text-similaries by different models, and t
 
 * KnowledgeGruph_P2 : Further Data Analysis . Now we want to focus to the categories which ocuppy the top-five number of paper from 2014 to 2020, finding thier daily  
 
-* KnowledgeGruph_P3 :
+* KnowledgeGruph_P3 : Transform the statistics
 
-* KnowledgeGruph_P4 :
+* KnowledgeGruph_P4 : Calculate Texts Similarities by the method of a paper 
 
-* KnowledgeGruph_P5 :
-* KnowledgeGruph_P6 :
+* KnowledgeGruph_P5 : Data Abstraction
 
-* KnowledgeGruph_P7 :
+* KnowledgeGruph_P6 : Calculate Text-Similarity By IF-IDF
 
-* KnowledgeGruph_P8 :
+* KnowledgeGruph_P7 : EDA of the result of P6
 
-* KnowledgeGruph_P9 :
+* KnowledgeGruph_P8 : Transform the processed data
 
-* KnowledgeGruph_P10 :
+* KnowledgeGruph_P9 + P11 : Calculate Text-Similarities by LDA Model
 
-* KnowledgeGruph_P11 ：
+* KnowledgeGruph_P11 ：Calculate Text-Similarities by Doc2Vec Model

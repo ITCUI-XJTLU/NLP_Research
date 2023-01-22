@@ -23,3 +23,9 @@ The project mainly focus on calculate text-similaries by different models, and t
 * KnowledgeGruph_P9 + P11 : Calculate Text-Similarities by LDA Model
 
 * KnowledgeGruph_P11 ：Calculate Text-Similarities by Doc2Vec Model
+
+* KnowledgeGruph_P11 ：Triple Extraction by Spacy_1
+
+* KnowledgeGruph_P11 ：Triple Extraction by Spacy_2
+
+* KnowledgeGruph_P11 ：Triple Extraction by Open Information Extraction (OIE)

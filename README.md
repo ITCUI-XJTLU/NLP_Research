@@ -20,7 +20,7 @@ The project mainly focus on calculate text-similaries by different models, and t
 
 * KnowledgeGruph_P8 : Transform the processed data
 
-* KnowledgeGruph_P9 + P11 : Calculate Text-Similarities by LDA Model
+* KnowledgeGruph_P9 + P10 : Calculate Text-Similarities by LDA Model
 
 * KnowledgeGruph_P11 ：Calculate Text-Similarities by Doc2Vec Model
 
